@@ -8,3 +8,4 @@ current=V./R
 % Power = V^2/R
 power=V.^2./R
 
+
